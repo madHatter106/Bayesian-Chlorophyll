@@ -4,3 +4,5 @@ data/
 Papers/
 
 \.ipynb_checkpoints/
+
+*.odg#
